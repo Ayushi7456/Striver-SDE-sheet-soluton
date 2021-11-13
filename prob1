@@ -1,4 +1,4 @@
-// Reverse a LinledList
+// Reverse a LinkedList
 class Solution {
     // Two pointer approch
     public ListNode reverseList(ListNode head) {
